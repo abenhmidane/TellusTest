@@ -50,10 +50,12 @@ products.product_type = "laptops"
 AND price < 2000**
 
 ## IV.Test Scenarios
-1-As a giphy user i'am able to search for only sticker.
-2-As a giphy user i'am able to search for only gifs.
-3-As a giphy user i'am able to search for both gifs and sticker at the same time.
-4-As a giphy user i'am able to specify the theme of the search before searching for a gif or sticker.
-5-As a giphy user i'am able to filter search by adult content or not.
-6-As a giphy user i'am able to filter search by lang.
-7-As a giphy user i'am able to search content by userTag.
+
+ - 1-As a giphy user i'am able to search for only sticker.
+ - 2-As a giphy user i'am able to search for only gifs.
+ - 3-As a giphy user i'am able to search for both gifs and sticker at the same time.
+ - 4-As a giphy user i'am able to specify the theme of the search before searching for a gif or sticker.
+ - 5-As a giphy user i'am able to filter search by adult content or not.
+ - 6-As a giphy user i'am able to filter search by lang.
+ - 7-As a giphy user i'am able to search content by userTag.
+
