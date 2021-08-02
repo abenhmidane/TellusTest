@@ -1,5 +1,5 @@
 # Description
-This is a the repos  for  **Tellus test** .
+This is a the repos  for  **Appium test** .
 
 
 # I UI Test Appium automated test.
