@@ -23,7 +23,7 @@ Is a java maven project that run a login test on pinterest app and validate that
 
 
 # II API test 
-**Repos Link:**https://github.com/abenhmidane/TellusTest/tree/main/tellusApiTest
+**Repos Link:**https://github.com/abenhmidane/AppiumExample/tree/main/tellusApiTest
 You can switch from one to another by clicking a file in the tree.
 
 
@@ -35,7 +35,7 @@ You can switch from one to another by clicking a file in the tree.
 from root folder
 maven = rspec /spec/## **giphy_search_test.rb**
 
-**The only code that was implemented  is here : https://github.com/abenhmidane/TellusTest/blob/main/tellusApiTest/spec/giphy_search_test.rb**
+**The only code that was implemented  is here : https://github.com/abenhmidane/TellusTest/blob/main/AppiumExample/spec/giphy_search_test.rb**
 
 **Explanation** : There is an issue with the API Key to get a prod ready functionnal Key you have to do a request and show them that you have at least a working app or else your key will be rejected witch is the case ( i have 403 forbidden). So i was not able to do further request and test the search.
 
